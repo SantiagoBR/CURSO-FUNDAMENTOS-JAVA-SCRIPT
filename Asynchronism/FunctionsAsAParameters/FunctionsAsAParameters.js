@@ -52,14 +52,3 @@ function answerSalute(Name, LastName, isDev)
 User.Salute()
 User2.Salute(answerSalute)
 User3.Salute(answerSalute)
-
-// let IsTall = santiago.Height >= TALL ? `soy alt@` : `no soy alt@`
-
-// Person.prototype.Salute = function () {
-//     return console.log(`Hola me llamo ${this.Name} ${this.LastName} y ${IsTall} porque mido ${this.Height} mts`)
-// }
-
-
-// console.log(this.Person.Height)
-// User.Salute()
-
